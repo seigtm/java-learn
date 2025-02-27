@@ -12,7 +12,7 @@ package com.sng;
  * (PastaWithFish) Паста с красной рыбой и сливками 270.- В порции 250 гр Ккал: 301 Белков: 15 г Жиров: 19 г Углеводов: 17 г
  * (PotatoDraniki) Картофельные драники с грибами 140.- В порции 100 гр Ккал: 602 Белков: 3 г Жиров: 53 г Углеводов: 29 г
  * */
-@SuppressWarnings("unused")
+
 public class Lunch {
     private final int totalWeightGrams;
     private final long totalKCals;

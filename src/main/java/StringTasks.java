@@ -1,4 +1,3 @@
-@SuppressWarnings("unused")
 public class StringTasks {
     /**
      * Проверьте, что строка состоит только из строчных букв

@@ -2,7 +2,6 @@ package com.sng;
 
 import java.math.BigDecimal;
 
-@SuppressWarnings("unused")
 public class CalculusTasks {
 
     /**
